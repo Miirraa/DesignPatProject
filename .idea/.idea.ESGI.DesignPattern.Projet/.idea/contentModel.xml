@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\rom\.nuget\packages\microsoft.net.test.sdk\16.6.1\build\netcoreapp2.1" t="Include">
+    <e p="C:\Users\Ven0m\.nuget\packages\microsoft.net.test.sdk\16.6.1\build\netcoreapp2.1" t="Include">
       <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
     </e>
-    <e p="C:\Users\rom\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
-    <e p="C:\Users\rom\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
-    <e p="C:\Users\rom\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\rom\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
-    <e p="C:\Users\rom\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
-    <e p="C:\Users\rom\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\rom\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ESGI.DesignPattern.Projet.2031054154.00" t="ExcludeRecursive" />
-    <e p="D:\ESGI\C#\DesignPattern\ESGI.DesignPattern.Projet" t="IncludeFlat">
+    <e p="C:\Users\Ven0m\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Ven0m\.nuget\packages\microsoft.testplatform.testhost\16.6.1\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Ven0m\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Ven0m\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll" t="Include" />
+    <e p="C:\Users\Ven0m\.nuget\packages\xunit.runner.visualstudio\2.4.2\build\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll" t="Include" />
+    <e p="C:\Users\Ven0m\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ven0m\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_ESGI.DesignPattern.Projet.-599241408.00" t="ExcludeRecursive" />
+    <e p="E:\dev\DesignPatProject" t="IncludeFlat">
       <e p="ESGI.DesignPattern.Projet" t="IncludeRecursive">
+        <e p="AdvisedLineLoan.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="ESGI.DesignPattern.Projet.csproj" t="IncludeRecursive" />
+        <e p="ExpiringLoan.cs" t="Include" />
         <e p="Loan.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -25,8 +27,8 @@
         </e>
         <e p="Payment.cs" t="Include" />
         <e p="Program.cs" t="Include" />
-        <e p="RiskFactor.cs" t="Include" />
-        <e p="UnusedRiskFactors.cs" t="Include" />
+        <e p="RevolverLoan.cs" t="Include" />
+        <e p="TermLoan.cs" t="Include" />
       </e>
       <e p="ESGI.DesignPattern.Projet.sln" t="IncludeFlat" />
       <e p="ESGI.DesignPattern.Projet.Tests" t="IncludeRecursive">

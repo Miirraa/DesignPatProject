@@ -11,3 +11,16 @@ D:\ESGI\C#\DesignPattern\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj
 D:\ESGI\C#\DesignPattern\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.dll
 D:\ESGI\C#\DesignPattern\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.pdb
 D:\ESGI\C#\DesignPattern\ESGI.DesignPattern.Projet\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.genruntimeconfig.cache
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.exe
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.deps.json
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.runtimeconfig.json
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.runtimeconfig.dev.json
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.dll
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\bin\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.pdb
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.csprojAssemblyReference.cache
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.AssemblyInfoInputs.cache
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.AssemblyInfo.cs
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.csproj.CoreCompileInputs.cache
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.dll
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.pdb
+E:\dev\DesignPatProject\ESGI.DesignPattern.Projet\obj\Debug\netcoreapp3.1\ESGI.DesignPattern.Projet.genruntimeconfig.cache

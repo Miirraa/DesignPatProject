@@ -18,13 +18,12 @@ namespace ESGI.DesignPattern.Projet
 
         public override double Duration()
         {
-            var weightedAverage = 0.0;
-            var sumOfPayments = 0.0;
-
-            if (Commitment == 0)
-            {
+            
+            if (Commitment <= 0.00)
                 return 0;
-            }
+            
+            var sumOfPayments = 0.0;
+            var weightedAverage = 0.0;
 
             foreach (var payment in Payments)
             {

@@ -14,7 +14,7 @@ namespace ESGI.DesignPattern.Projet
         protected const double RiskFactor = 0.03;
         protected const double UnusedRiskFactor = 0.01;
         
-        private const long  MillisPerDay = 86400000;
+        private const long MillisPerDay = 86400000;
         private const long DaysPerYear = 365;
 
         public void Payment(double amount, DateTime paymentDate)
@@ -28,7 +28,7 @@ namespace ESGI.DesignPattern.Projet
         
         protected double YearsTo(DateTime endDate)
         {
-            return (endDate.Ticks - Start.Ticks) / MillisPerDay / DaysPerYear;
+            return ((double)(endDate.Ticks - Start.Ticks)) / MillisPerDay / DaysPerYear;
         }
     }
 }

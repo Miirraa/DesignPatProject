@@ -20,56 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fd82c70-4e3b-4bc1-bf43-f1d1e2c0bebe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.runtimeconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/ESGI.DesignPattern.Projet.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/ESGI.DesignPattern.Projet.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/ESGI.DesignPattern.Projet.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/ESGI.DesignPattern.Projet.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RiskFactor.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/UnusedRiskFactors.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.runtimeconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/ESGI.DesignPattern.Projet.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/ESGI.DesignPattern.Projet.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/ESGI.DesignPattern.Projet.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/ESGI.DesignPattern.Projet.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,13 +61,13 @@
       <list>
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/ILoan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Program.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/ExpiringLoan.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/ExpiringLoan.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" />
       </list>
     </option>
   </component>
@@ -117,6 +84,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunManager" selected=".NET Project.ESGI.DesignPattern.Projet">
@@ -150,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593505961310</updated>
       <workItem from="1593505962668" duration="2189000" />
-      <workItem from="1593509420637" duration="11242000" />
+      <workItem from="1593509420637" duration="17349000" />
     </task>
     <servers />
   </component>

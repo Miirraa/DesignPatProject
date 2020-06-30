@@ -4,19 +4,19 @@ namespace ESGI.DesignPattern.Projet
 {
     public class RevolverLoan : ExpiringLoan
     {
-        private double _outstanding;
+        private double Outstanding { get; set; }
 
         public RevolverLoan(double commitment, DateTime start, DateTime expiry, double outstanding = 0.00)
         {
             Commitment = commitment;
             Start = start;
             Expiry = expiry;
-            _outstanding = outstanding;
+            Outstanding = outstanding;
         }
         
         public override double Capital()
         {
-            return (_outstanding * Duration() * RiskFactor)
+            return (Outstanding * Duration() * RiskFactor)
                    + (UnusedRiskAmount() * Duration() * UnusedRiskFactor);
         }
 
@@ -27,7 +27,7 @@ namespace ESGI.DesignPattern.Projet
 
         private double UnusedRiskAmount()
         {
-            return (Commitment - _outstanding);
+            return (Commitment - Outstanding);
         }
     }
 }

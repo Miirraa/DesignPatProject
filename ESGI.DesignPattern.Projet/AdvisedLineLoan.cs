@@ -1,14 +1,17 @@
 ﻿using System;
+using System.Collections.ObjectModel;
 
 namespace ESGI.DesignPattern.Projet
 {
     public class AdvisedLineLoan : ExpiringLoan
     {
-        private readonly double _unusedPercentage = 0.1;
+        private const double UnusedPercentage = 0.1;
+
+        private const int MaxAcceptableRiskRating = 3;
 
         public AdvisedLineLoan(double commitment, DateTime start, DateTime expiry, int riskRating)
         {
-            if (riskRating > 3)
+            if (riskRating > MaxAcceptableRiskRating)
                 throw new Exception("Risk rating is too high for AdvisedLineLoan");
 
             Commitment = commitment;
@@ -18,7 +21,7 @@ namespace ESGI.DesignPattern.Projet
         
         public override double Capital()
         {
-            return Commitment * _unusedPercentage * Duration() * RiskFactor;
+            return Commitment * UnusedPercentage * Duration() * RiskFactor;
         }
 
         public override double Duration()

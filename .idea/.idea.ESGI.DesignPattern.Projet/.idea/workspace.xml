@@ -22,21 +22,9 @@
     <list default="true" id="3fd82c70-4e3b-4bc1-bf43-f1d1e2c0bebe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ESGI.DesignPattern.Projet/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.Tests.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/bin/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ESGI.DesignPattern.Projet/obj/Debug/netcoreapp3.1/ESGI.DesignPattern.Projet.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +49,11 @@
       <list>
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/ILoan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Program.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/ExpiringLoan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/TermLoan.cs" />
-        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/AdvisedLineLoan.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Payment.cs" />
+        <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/Loan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet/RevolverLoan.cs" />
         <option value="$PROJECT_DIR$/ESGI.DesignPattern.Projet.Tests/Tests.cs" />
       </list>
@@ -87,7 +75,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
-  <component name="RunManager" selected=".NET Project.ESGI.DesignPattern.Projet">
+  <component name="RunManager">
     <configuration name="ESGI.DesignPattern.Projet" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -118,7 +106,8 @@
       <option name="presentableId" value="Default" />
       <updated>1593505961310</updated>
       <workItem from="1593505962668" duration="2189000" />
-      <workItem from="1593509420637" duration="17349000" />
+      <workItem from="1593509420637" duration="18252000" />
+      <workItem from="1593533779078" duration="4203000" />
     </task>
     <servers />
   </component>
@@ -137,6 +126,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />

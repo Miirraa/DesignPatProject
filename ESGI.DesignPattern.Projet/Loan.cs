@@ -12,8 +12,7 @@ namespace ESGI.DesignPattern.Projet
         protected DateTime Start { get; set; }
 
         protected const double RiskFactor = 0.03;
-        protected const double UnusedRiskFactor = 0.01;
-        
+
         private const long MillisPerDay = 86400000;
         private const long DaysPerYear = 365;
 

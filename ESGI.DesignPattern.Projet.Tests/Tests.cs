@@ -53,7 +53,7 @@ namespace ESGI.DesignPattern.Projet.Tests
             var start = November(20, 2003);
             var expiry = November(20, 2007);
 
-            var advisedLineLoan = new AdvisedLineLoan(LoanAmount, start, expiry, LowRiskTaking);
+            Loan advisedLineLoan = new AdvisedLineLoan(LoanAmount, start, expiry, LowRiskTaking);
             advisedLineLoan.Payment(1000.00, November(20, 2004));
             advisedLineLoan.Payment(1000.00, November(20, 2005));
             advisedLineLoan.Payment(1000.00, November(20, 2006));
